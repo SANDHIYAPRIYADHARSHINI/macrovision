@@ -14,6 +14,5 @@ flowchart LR
 ## Simulation Mapping
 
 - Red pushbutton: simulated camera prediction.
-- Blue pushbutton: selects deterministic distance test value.
 - ESP32: local decision layer.
 - LEDs and buzzer: safety actions.
