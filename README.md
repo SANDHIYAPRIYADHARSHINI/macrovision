@@ -1,4 +1,4 @@
-# MacroVision Claw ESP32-CAM Safety Monitor
+# Edge AI Proximity Safety Monitor
 
 ## Overview
 
